@@ -1,0 +1,6 @@
+DESCRIPT:  A Program for Outing Text from files
+DEPEND:  pkin
+SIZE:  1-CPP
+
+EDP: out <path>
+EX:  out /usr/bin/pkin
